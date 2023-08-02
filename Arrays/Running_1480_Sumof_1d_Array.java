@@ -1,5 +1,5 @@
 /**
- * [Running Sum of 1d Array]
+ * 3. [Running Sum of 1d Array]
  * (https://leetcode.com/problems/running-sum-of-1d-array/)
  * Running_1480_Sumof_1d_Array
  */
