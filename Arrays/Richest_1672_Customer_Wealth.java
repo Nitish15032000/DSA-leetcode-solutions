@@ -1,4 +1,4 @@
-// 4. [Richest Customer Wealth]
+// 4.[Richest Customer Wealth]
 // (https://leetcode.com/problems/richest-customer-wealth/)
 
 public class Richest_1672_Customer_Wealth {
